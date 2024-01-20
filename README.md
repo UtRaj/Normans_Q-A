@@ -17,7 +17,7 @@ The fine-tuned GPT-2 model has been deployed on Hugging Face Spaces and is acces
 - **Deployment Platform:** Hugging Face Spaces
 - **Interface:** Gradio
 
-## How to Use
+## Deployed Link
 
 Visit the deployed model on Hugging Face Spaces: [Normandy QA Model](https://huggingface.co/spaces/Rajut/Normandy_QA_2)
 
