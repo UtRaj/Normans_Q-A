@@ -21,4 +21,12 @@ The fine-tuned GPT-2 model has been deployed on Hugging Face Spaces and is acces
 
 Visit the deployed model on Hugging Face Spaces: [Normandy QA Model](https://huggingface.co/spaces/Rajut/Normandy_QA_2)
 
+## References
+- GPT-2 GitHub Repository: https://github.com/openai/gpt-2
+- Hugging Face Spaces: https://huggingface.co/spaces
+- Gradio GitHub Repository: https://github.com/gradio-app/gradio
+- Gradio Website: https://www.gradio.app/
+  
+Feel free to explore these resources for more information and usage details.
+
 
